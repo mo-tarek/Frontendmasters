@@ -67,9 +67,18 @@
     - complete intro to container(feat. docker)
     - complete intro to sql and postgresql 
     - Elective coursework 
-    - introduction to serverless functions 
-    - 
+        - introduction to serverless functions 
 6. Design to code 
+    - Web UX Design for High Converting Websites
+    - SVG Essentials & Animation, v2
+    - Elective Coursework
+        - Mastering the Design Process
+        - Figma for Developers
+        - Design Systems with React & Storybook
+        - Responsive Web Typography v2
+        - Data Visualization First Steps
+        - HTML Email Development, v2
+        - Creative Coding with Canvas & WebGL
 ## Skill Paths
 1. CSS 
 2. JavaScript 
