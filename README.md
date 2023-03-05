@@ -1,4 +1,4 @@
-# List of COurses
+# List of Courses
 
 
 ## Learning Paths 
